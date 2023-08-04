@@ -1,0 +1,10 @@
+numpy
+tensorflow
+tqdm
+scipy
+pillow==9.4.0
+opencv-python
+scikit-image
+scikit-learn
+segmentation-models
+protobuf
