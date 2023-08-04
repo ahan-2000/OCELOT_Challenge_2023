@@ -1,4 +1,4 @@
-# OCELOT_Challenge_2023
+# OCELOT Challenge 2023
 This repo is being used to develop the codebase for the OCELET-2023 as a part of the Grand Challenge.
 
 Machine learning algorithms play a crucial role in cancer cell classification from histopathological images, as they can analyze vast amounts of data and identify subtle patterns that might elude human detection. Their ability to accurately distinguish between normal and cancerous cells has the potential to improve early diagnosis, treatment planning, and ultimately enhance patient outcomes in cancer care. In this paper, we introduce a deep-learning algorithm for simultaneous cancer cell detection and semantic segmentation of histopathological images. Our proposed method has shown promising performance on the recent OCELOT challenge.  
