@@ -28,9 +28,11 @@ Training Curves for InceptionV3
 Prediction Image 1:
 
 ![Prediction Images](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/pred1.png)
+
 Prediction Image 2:
 
 ![Prediction Images](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/pred2.png)
+
 Prediction Image 3:
 
 ![Prediction Images](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/pred3.png)
