@@ -25,4 +25,11 @@ Training Curves for InceptionV3
 ![Training Curves for InceptionV3](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download1.png)
 ![Training Curves for InceptionV3](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download2.png)
 
+Prediction Images:
+![Prediction Images](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/pred1.png)
+![Prediction Images](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/pred2.png)
+![Prediction Images](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/pred3.png)
+
+
+
 
