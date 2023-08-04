@@ -12,13 +12,11 @@ Model Name	                               IoU Score
 InceptionV3 Based Encoder U-Net	             0.4729
 EfficientNetB2 Based Encoder U-Net	         0.6514
 
-Training Curves for EfficientNetB2
-![Alt Text]((https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download.png)https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download.png)
-![Alt Text]((https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download3.png)https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download3.png)
 
-Training Curves for InceptionV3
+![Training Curves for EfficientNetB2](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download.png)
+![Training Curves for EfficientNetB2](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download3.png)
 
-![Alt Text]([image-url](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download1.png)https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download1.png)
-![Alt Text]([image-url](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download2.png)https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download2.png)
+![Training Curves for InceptionV3](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download1.png)
+![Training Curves for InceptionV3](https://github.com/ahan-2000/OCELOT_Challenge_2023/blob/main/Images/download2.png)
 
 
